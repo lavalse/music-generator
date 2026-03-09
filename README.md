@@ -1,4 +1,4 @@
-# surreal.red
+# Music Generator For Works
 
 A browser-based generative ambient music system built with [Tone.js](https://tonejs.github.io/). No server required — everything runs in-browser.
 
